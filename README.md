@@ -6,4 +6,4 @@ a zig-zag path and wall-following using SHARP sensors in the absence of no line.
 
 Also contains the code to control the Bot's arm for a Bi-directional pickup and place mechanism of construction materials.
 
-
+A V-REP Simulation of the above code was also carried out before the hardware implementation of the same.
